@@ -1,5 +1,7 @@
 package hello;
 
+import java.util.Date;
+
 public class Main {
 
 	public static void main(String[] args) {
@@ -7,5 +9,8 @@ public class Main {
 		System.out.println("I'm changed!");
 		System.out.println("I'm changed again!");		
 		System.out.println("Life is good!!!!!");
+		System.out.println("I'm changed again!");
+		System.out.println("Today date is " + new Date());
+
 	}
 }
