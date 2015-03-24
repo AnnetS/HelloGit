@@ -12,5 +12,6 @@ public class Main {
 		System.out.println("I'm changed again!");
 		System.out.println("Today date is " + new Date());
 
+		System.out.println("My name is Anna");
 	}
 }
